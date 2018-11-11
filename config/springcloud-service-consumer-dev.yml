@@ -1,3 +1,4 @@
 from: git-dev-1.0
-charge:
-  url: http://dev.inside-charge.01zhuanche.com
+url:
+  charge: http://dev.inside-charge.01zhuanche.com
+  payment: http://dev.inside-payment.01zhuanche.com
