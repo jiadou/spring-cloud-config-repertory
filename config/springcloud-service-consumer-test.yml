@@ -1,0 +1,4 @@
+from: git-test-1.0
+url:
+  charge: http://test.inside-charge.01zhuanche.com
+  payment: http://test.inside-payment.01zhuanche.com

@@ -1,0 +1,4 @@
+from: git-prod-1.0
+url:
+  charge: http://prod.inside-charge.01zhuanche.com
+  payment: http://prod.inside-payment.01zhuanche.com
