@@ -1,0 +1,1 @@
+default: get default # 这个文件，不管获取什么环境的配置 都会默认加载
